@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/MyCmakeTemplate.dir/src/main.cpp.obj"
-  "CMakeFiles/MyCmakeTemplate.dir/src/main.cpp.obj.d"
-  "MyCmakeTemplate.exe"
-  "MyCmakeTemplate.exe.manifest"
+  "CMakeFiles/MyCmakeTemplate.dir/src/main.cpp.o"
+  "CMakeFiles/MyCmakeTemplate.dir/src/main.cpp.o.d"
+  "MyCmakeTemplate"
   "MyCmakeTemplate.pdb"
-  "libMyCmakeTemplate.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

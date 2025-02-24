@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "MyCmakeTemplate.exe"
-		},
-		{
-			"path" : "MyCmakeTemplate.pdb"
+			"path" : "MyCmakeTemplate"
 		}
 	],
 	"backtrace" : 1,
@@ -45,14 +42,17 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++11"
+					"fragment" : "-g"
+				},
+				{
+					"fragment" : "-std=gnu++11"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 2,
-					"path" : "F:/MyGitLib/MyCmakeTemplate/./include"
+					"path" : "/root/VScode/MyCmakeTemplate/./include"
 				}
 			],
 			"language" : "CXX",
@@ -82,16 +82,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "MyCmakeTemplate",
-	"nameOnDisk" : "MyCmakeTemplate.exe",
+	"nameOnDisk" : "MyCmakeTemplate",
 	"paths" : 
 	{
 		"build" : ".",

@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.5"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "MyCmakeTemplate::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-MyCmakeTemplate-Debug-2d82383212072c460aef.json",
+					"jsonFile" : "target-MyCmakeTemplate-Debug-813c444a54c37b8fb530.json",
 					"name" : "MyCmakeTemplate",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "F:/MyGitLib/MyCmakeTemplate/build",
-		"source" : "F:/MyGitLib/MyCmakeTemplate"
+		"build" : "/root/VScode/MyCmakeTemplate/build",
+		"source" : "/root/VScode/MyCmakeTemplate"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 7
+		"minor" : 3
 	}
 }
