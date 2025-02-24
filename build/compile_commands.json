@@ -1,8 +1,8 @@
 [
 {
-  "directory": "F:/MyGitLib/MyCmakeTemplate/build",
-  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/MyCmakeTemplate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\MyCmakeTemplate.dir\\src\\main.cpp.obj -c F:\\MyGitLib\\MyCmakeTemplate\\src\\main.cpp",
-  "file": "F:/MyGitLib/MyCmakeTemplate/src/main.cpp",
-  "output": "CMakeFiles/MyCmakeTemplate.dir/src/main.cpp.obj"
+  "directory": "F:/MyGitLib/MyCMakeTemplate/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/MyCMakeTemplate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\MyCMakeTemplate.dir\\src\\main.cpp.obj -c F:\\MyGitLib\\MyCMakeTemplate\\src\\main.cpp",
+  "file": "F:/MyGitLib/MyCMakeTemplate/src/main.cpp",
+  "output": "CMakeFiles/MyCMakeTemplate.dir/src/main.cpp.obj"
 }
 ]

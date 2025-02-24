@@ -1,8 +1,8 @@
-# Install script for directory: F:/MyGitLib/MyCmakeTemplate
+# Install script for directory: F:/MyGitLib/MyCMakeTemplate
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/MyCmakeTemplate")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/MyCMakeTemplate")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "F:/MyGitLib/MyCmakeTemplate/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "F:/MyGitLib/MyCMakeTemplate/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

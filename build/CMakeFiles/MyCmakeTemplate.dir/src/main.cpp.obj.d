@@ -1,5 +1,5 @@
-CMakeFiles/MyCmakeTemplate.dir/src/main.cpp.obj: \
- F:\MyGitLib\MyCmakeTemplate\src\main.cpp \
+CMakeFiles/MyCMakeTemplate.dir/src/main.cpp.obj: \
+ F:\MyGitLib\MyCMakeTemplate\src\main.cpp \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -116,4 +116,4 @@ CMakeFiles/MyCmakeTemplate.dir/src/main.cpp.obj: \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream \
  D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
- F:/MyGitLib/MyCmakeTemplate/include/main.h
+ F:/MyGitLib/MyCMakeTemplate/include/main.h

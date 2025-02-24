@@ -53,16 +53,16 @@ RM = "D:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = F:\MyGitLib\MyCmakeTemplate
+CMAKE_SOURCE_DIR = F:\MyGitLib\MyCMakeTemplate
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = F:\MyGitLib\MyCmakeTemplate\build
+CMAKE_BINARY_DIR = F:\MyGitLib\MyCMakeTemplate\build
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/MyCmakeTemplate.dir/all
+all: CMakeFiles/MyCMakeTemplate.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -70,34 +70,34 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/MyCmakeTemplate.dir/clean
+clean: CMakeFiles/MyCMakeTemplate.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/MyCmakeTemplate.dir
+# Target rules for target CMakeFiles/MyCMakeTemplate.dir
 
 # All Build rule for target.
-CMakeFiles/MyCmakeTemplate.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCmakeTemplate.dir\build.make CMakeFiles/MyCmakeTemplate.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCmakeTemplate.dir\build.make CMakeFiles/MyCmakeTemplate.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=F:\MyGitLib\MyCmakeTemplate\build\CMakeFiles --progress-num=1,2 "Built target MyCmakeTemplate"
-.PHONY : CMakeFiles/MyCmakeTemplate.dir/all
+CMakeFiles/MyCMakeTemplate.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCMakeTemplate.dir\build.make CMakeFiles/MyCMakeTemplate.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCMakeTemplate.dir\build.make CMakeFiles/MyCMakeTemplate.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=F:\MyGitLib\MyCMakeTemplate\build\CMakeFiles --progress-num=1,2 "Built target MyCMakeTemplate"
+.PHONY : CMakeFiles/MyCMakeTemplate.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/MyCmakeTemplate.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start F:\MyGitLib\MyCmakeTemplate\build\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/MyCmakeTemplate.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start F:\MyGitLib\MyCmakeTemplate\build\CMakeFiles 0
-.PHONY : CMakeFiles/MyCmakeTemplate.dir/rule
+CMakeFiles/MyCMakeTemplate.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start F:\MyGitLib\MyCMakeTemplate\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/MyCMakeTemplate.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start F:\MyGitLib\MyCMakeTemplate\build\CMakeFiles 0
+.PHONY : CMakeFiles/MyCMakeTemplate.dir/rule
 
 # Convenience name for target.
-MyCmakeTemplate: CMakeFiles/MyCmakeTemplate.dir/rule
-.PHONY : MyCmakeTemplate
+MyCMakeTemplate: CMakeFiles/MyCMakeTemplate.dir/rule
+.PHONY : MyCMakeTemplate
 
 # clean rule for target.
-CMakeFiles/MyCmakeTemplate.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCmakeTemplate.dir\build.make CMakeFiles/MyCmakeTemplate.dir/clean
-.PHONY : CMakeFiles/MyCmakeTemplate.dir/clean
+CMakeFiles/MyCMakeTemplate.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCMakeTemplate.dir\build.make CMakeFiles/MyCMakeTemplate.dir/clean
+.PHONY : CMakeFiles/MyCMakeTemplate.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

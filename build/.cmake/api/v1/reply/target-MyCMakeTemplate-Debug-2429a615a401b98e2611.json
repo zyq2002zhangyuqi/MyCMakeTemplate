@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "MyCmakeTemplate.exe"
+			"path" : "MyCMakeTemplate.exe"
 		},
 		{
-			"path" : "MyCmakeTemplate.pdb"
+			"path" : "MyCMakeTemplate.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -52,7 +52,7 @@
 			[
 				{
 					"backtrace" : 2,
-					"path" : "F:/MyGitLib/MyCmakeTemplate/./include"
+					"path" : "F:/MyGitLib/MyCMakeTemplate/./include"
 				}
 			],
 			"language" : "CXX",
@@ -70,7 +70,7 @@
 			]
 		}
 	],
-	"id" : "MyCmakeTemplate::@6890427a1f51a3e7e1df",
+	"id" : "MyCMakeTemplate::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -90,8 +90,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "MyCmakeTemplate",
-	"nameOnDisk" : "MyCmakeTemplate.exe",
+	"name" : "MyCMakeTemplate",
+	"nameOnDisk" : "MyCMakeTemplate.exe",
 	"paths" : 
 	{
 		"build" : ".",

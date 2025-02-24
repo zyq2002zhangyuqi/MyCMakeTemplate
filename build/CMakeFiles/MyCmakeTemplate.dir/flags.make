@@ -4,7 +4,7 @@
 # compile CXX with D:/mingw64/bin/g++.exe
 CXX_DEFINES = 
 
-CXX_INCLUDES = @CMakeFiles/MyCmakeTemplate.dir/includes_CXX.rsp
+CXX_INCLUDES = @CMakeFiles/MyCMakeTemplate.dir/includes_CXX.rsp
 
 CXX_FLAGS = -g -std=gnu++11
 

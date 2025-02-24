@@ -56,10 +56,10 @@ RM = "D:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = F:\MyGitLib\MyCmakeTemplate
+CMAKE_SOURCE_DIR = F:\MyGitLib\MyCMakeTemplate
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = F:\MyGitLib\MyCmakeTemplate\build
+CMAKE_BINARY_DIR = F:\MyGitLib\MyCMakeTemplate\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start F:\MyGitLib\MyCmakeTemplate\build\CMakeFiles F:\MyGitLib\MyCmakeTemplate\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start F:\MyGitLib\MyCMakeTemplate\build\CMakeFiles F:\MyGitLib\MyCMakeTemplate\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start F:\MyGitLib\MyCmakeTemplate\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start F:\MyGitLib\MyCMakeTemplate\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -116,24 +116,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named MyCmakeTemplate
+# Target rules for targets named MyCMakeTemplate
 
 # Build rule for target.
-MyCmakeTemplate: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 MyCmakeTemplate
-.PHONY : MyCmakeTemplate
+MyCMakeTemplate: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 MyCMakeTemplate
+.PHONY : MyCMakeTemplate
 
 # fast build rule for target.
-MyCmakeTemplate/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCmakeTemplate.dir\build.make CMakeFiles/MyCmakeTemplate.dir/build
-.PHONY : MyCmakeTemplate/fast
+MyCMakeTemplate/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCMakeTemplate.dir\build.make CMakeFiles/MyCMakeTemplate.dir/build
+.PHONY : MyCMakeTemplate/fast
 
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
 # target to build an object file
 src/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCmakeTemplate.dir\build.make CMakeFiles/MyCmakeTemplate.dir/src/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCMakeTemplate.dir\build.make CMakeFiles/MyCMakeTemplate.dir/src/main.cpp.obj
 .PHONY : src/main.cpp.obj
 
 src/main.i: src/main.cpp.i
@@ -141,7 +141,7 @@ src/main.i: src/main.cpp.i
 
 # target to preprocess a source file
 src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCmakeTemplate.dir\build.make CMakeFiles/MyCmakeTemplate.dir/src/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCMakeTemplate.dir\build.make CMakeFiles/MyCMakeTemplate.dir/src/main.cpp.i
 .PHONY : src/main.cpp.i
 
 src/main.s: src/main.cpp.s
@@ -149,7 +149,7 @@ src/main.s: src/main.cpp.s
 
 # target to generate assembly for a file
 src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCmakeTemplate.dir\build.make CMakeFiles/MyCmakeTemplate.dir/src/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyCMakeTemplate.dir\build.make CMakeFiles/MyCMakeTemplate.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
 # Help Target
@@ -160,7 +160,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... MyCmakeTemplate
+	@echo ... MyCMakeTemplate
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "f:/MyGitLib/MyCmakeTemplate/build"
+			"value" : "f:/MyGitLib/MyCMakeTemplate/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/MyGitLib/MyCmakeTemplate/build/CMakeFiles/pkgRedirects"
+			"value" : "F:/MyGitLib/MyCMakeTemplate/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "F:/MyGitLib/MyCmakeTemplate"
+			"value" : "F:/MyGitLib/MyCMakeTemplate"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/MyCmakeTemplate"
+			"value" : "C:/Program Files (x86)/MyCMakeTemplate"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -879,7 +879,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "MyCmakeTemplate"
+			"value" : "MyCMakeTemplate"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1274,7 +1274,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "MyCmakeTemplate_BINARY_DIR",
+			"name" : "MyCMakeTemplate_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1283,10 +1283,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/MyGitLib/MyCmakeTemplate/build"
+			"value" : "F:/MyGitLib/MyCMakeTemplate/build"
 		},
 		{
-			"name" : "MyCmakeTemplate_IS_TOP_LEVEL",
+			"name" : "MyCMakeTemplate_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1298,7 +1298,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "MyCmakeTemplate_SOURCE_DIR",
+			"name" : "MyCMakeTemplate_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1307,7 +1307,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "F:/MyGitLib/MyCmakeTemplate"
+			"value" : "F:/MyGitLib/MyCMakeTemplate"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

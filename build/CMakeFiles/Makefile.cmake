@@ -110,7 +110,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Platform/Windows-windres.cmake"
   "D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake"
   "D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake"
-  "F:/MyGitLib/MyCmakeTemplate/CMakeLists.txt"
+  "F:/MyGitLib/MyCMakeTemplate/CMakeLists.txt"
   "CMakeFiles/3.29.5-msvc4/CMakeCCompiler.cmake"
   "CMakeFiles/3.29.5-msvc4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.29.5-msvc4/CMakeRCCompiler.cmake"
@@ -136,5 +136,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/MyCmakeTemplate.dir/DependInfo.cmake"
+  "CMakeFiles/MyCMakeTemplate.dir/DependInfo.cmake"
   )

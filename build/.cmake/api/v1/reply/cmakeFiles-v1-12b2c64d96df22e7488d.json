@@ -822,8 +822,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "F:/MyGitLib/MyCmakeTemplate/build",
-		"source" : "F:/MyGitLib/MyCmakeTemplate"
+		"build" : "F:/MyGitLib/MyCMakeTemplate/build",
+		"source" : "F:/MyGitLib/MyCMakeTemplate"
 	},
 	"version" : 
 	{
